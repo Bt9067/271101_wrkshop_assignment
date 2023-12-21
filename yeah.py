@@ -1,4 +1,4 @@
-#This code demonstrate how to show the video capture
+#Thiscodedemonstratehowtoshowthevideocapture
 
 import cv2
 
